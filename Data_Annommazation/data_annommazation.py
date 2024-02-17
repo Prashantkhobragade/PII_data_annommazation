@@ -2,8 +2,8 @@ from transformers import pipeline
 import os
 import sys
 
-from logger import logging
-from Exception import DataAnnommazationException
+from Data_Annommazation.logger import logging
+from Data_Annommazation.Exception import DataAnnommazationException
 
 
 try:
